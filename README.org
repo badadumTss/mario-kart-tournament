@@ -1,0 +1,21 @@
+#+TITLE: Official Mario kart tournament - Vodka anyone?
+#+AUTHOR: Luca Zaninotto
+#+DATE: 1 Apr 2022
+* Matches
+  | Done | Players                     |
+  |------+-----------------------------|
+  | []   | Arnau, Nil, Luca, Giacomo   |
+  | []   | Nil, Luca, Giacomo, Karen   |
+  | []   | Luca, Giacomo, Karen, Hugo  |
+  | []   | Giacomo, Karen, Hugo, Arnau |
+  | []   | Karen, Hugo, Arnau, Nil     |
+  | []   | Hugo, Arnau, Nil, Luca      |
+  | []   | Arnau, Nil, Luca, Karen     |
+  | []   | Nil, Luca, Giacomo, Hugo    |
+  | []   | Luca, Giacomo, Karen, Arnau |
+  | []   | Nil, Giacomo, Karen, Hugo   |
+  | []   | Arnau, Luca, Karen, Hugo    |
+  | []   | Arnau, Nil, Giacomo, Hugo   |
+  | []   | Nil, Luca, Karen, Hugo      |
+  | []   | Arnau, Luca, Giacomo, Hugo  |
+  | []   | Arnau, Nil, Giacomo, Karen  |
